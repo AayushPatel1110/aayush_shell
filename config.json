@@ -9,13 +9,15 @@
   ],
   "title": "WebShell",
   "username": "visitor",
-  "hostname": "aayushpatel.000.pe",
+  "hostname": "aayushpatel",
   "password": "050823",
   "repoLink": "https://github.com/AayushPatel1110/webshell",
   "social": {
     "email": "patelaayush788@email.com",
     "github": "https://github.com/AayushPatel1110",
-    "linkedin": "https://www.linkedin.com/in/aayushpatel1110/"
+    "linkedin": "https://www.linkedin.com/in/aayushpatel1110/",
+    "Qualifications" : "Master Of Computer Applications",
+    "University" : "CVM University,Anand"
   },
   "aboutGreeting": "Hi! I'm Aayush Patel. Nice to meet you",
   "projects": [
