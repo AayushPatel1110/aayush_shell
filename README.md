@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # [WebShell | Terminal Portfolio Website](https://webshellx.vercel.app/)
 
 <div align="center">
@@ -84,3 +85,6 @@ Start the server
 ```shell
 npm run dev
 ```
+=======
+# aayush_shell
+>>>>>>> 57c8d7a007320e711b20ed32c6265bc1578142a6
