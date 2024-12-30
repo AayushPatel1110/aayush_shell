@@ -69,22 +69,5 @@ Most of the configuration is done in the `config.json` file.
 
 ## Run the Project Locally:
 
-Clone the repository
-```shell
-git clone https://github.com/nasan016/webshell.git
-```
-Go to the project directory
-```shell
-cd webshell
-```
-Install the dependencies
-```shell
-npm install
-```
-Start the server
-```shell
-npm run dev
-```
-=======
 # aayush_shell
 >>>>>>> 57c8d7a007320e711b20ed32c6265bc1578142a6
