@@ -40,7 +40,7 @@
   "colors": {
     "background": "#0C0623",
     "foreground": "#F8DDE5",
-    "banner": "#FF9951",
+    "banner": "#ff6a00",
     "border": {
       "visible": true,
       "color": "#FFADE2"
