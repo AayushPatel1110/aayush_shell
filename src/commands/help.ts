@@ -13,11 +13,11 @@ const helpObj = {
       "A perplexing question."
     ],
     ["'sudo'",
-      "???"
+      "Not gonna give you!!!"
     ],
     [
       "'repo'",
-      "View the Github Repository."
+      "View My Github Repository."
     ],
     ["'banner'",
       "Display the banner."
