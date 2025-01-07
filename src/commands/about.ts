@@ -38,8 +38,9 @@ const createAbout = () : string[] => {
   about.push(string);
 
   about.push("<br>");
-  
-  about.push("Instagram : aayushh.xd");
+  const instagram = `<div><i class="fa fa-instagram" style="color: #E4405F;"></i> Instagram: <a href="https://instagram.com/aayushh.xd" target="_blank" style="color: lightblue;">aayushh.xd</a></div>`;
+
+  about.push(instagram);
   about.push("<br>");
   return about
 }
