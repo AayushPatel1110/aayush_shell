@@ -38,10 +38,14 @@ const createAbout = () : string[] => {
   about.push(string);
 
   about.push("<br>");
-  const instagram = `<div><i class="fa fa-instagram" style="color: white;"></i> Instagram: <a href="https://instagram.com/aayushh.xd" target="_blank" style="color: lightblue;">aayushh.xd</a></div>`;
+  const instagram = `<div><i class="fa fa-instagram" style="color: white;"></i> Instagram: <a href="https://instagram.com/aayushh.xd" target="_blank" style="color: white; font-weight: bold;">aayushh.xd</a></div>`;
+  const portfolio = `<div><i class="fa fa-globe" style="color: white;"></i> Portfolio: <a href="https://yourportfolio.com" target="_blank" style="color: white; font-weight: bold;">yourportfolio.com</a></div>`;
 
+// Add Instagram and Portfolio to the about array
   about.push(instagram);
+  about.push(portfolio);
   about.push("<br>");
+
   return about
 }
 
