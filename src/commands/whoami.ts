@@ -7,7 +7,7 @@ const whoamiObj = {
     [
       "Amidst cosmic whispers,",
       "I navigate the maze of self-discovery,",
-      "echoing the eternal refrain - Aayush"
+      "echoing the eternal refrain - "
     ],
     [
       "In the symphony of life,",
