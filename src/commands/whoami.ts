@@ -2,27 +2,27 @@ const whoamiObj = {
   "message" : [
     [
       "In the kaleidoscope of existence,",
-      "I am but a reflection questioning the enigma - "
+      "I am but a reflection questioning the enigma - Aayush"
     ],
     [
       "Amidst cosmic whispers,",
       "I navigate the maze of self-discovery,",
-      "echoing the eternal refrain - "
+      "echoing the eternal refrain - Aayush"
     ],
     [
       "In the symphony of life,",
       "I am a note inquiring its own melody,",
-      "harmonizing with the universal query - ",
+      "harmonizing with the universal query - Aayush",
     ],
     [
       "As stardust contemplating its journey,",
       "I ponder the cosmic query,",
-      "silently asking - ",
+      "silently asking - Aayush",
     ],
     [
       "In the tapestry of reality,",
       "I am the thread of self-inquiry,",
-      "weaving through the eternal question - "
+      "weaving through the eternal question - Aayush"
     ],
   ],
 }
