@@ -38,6 +38,9 @@ const createAbout = () : string[] => {
   about.push(string);
 
   about.push("<br>");
+  
+  about.push("Instagram : aayushh.xd");
+  about.push("<br>");
   return about
 }
 
