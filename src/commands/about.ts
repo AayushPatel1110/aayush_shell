@@ -38,12 +38,12 @@ const createAbout = () : string[] => {
   about.push(string);
 
   about.push("<br>");
-  const instagram = `<div><i class="fa fa-instagram" style="color: white;"></i> Instagram: <a href="https://instagram.com/aayushh.xd" target="_blank" style="color: white; font-weight: bold;">aayushh.xd</a></div>`;
-const portfolio = `<div><i class="fa fa-globe" style="color: white;"></i> Portfolio: <a href="https://aayushpatel.000.pe/" target="_blank" style="color: white; font-weight: bold;">aayushpatel.000.pe</a></div>`;
-const twitter = `<div><i class="fa fa-twitter" style="color: white;"></i> Twitter: <a href="https://twitter.com/aayush_1110" target="_blank" style="color: white; font-weight: bold;">Aayush Patel</a></div>`;
-const medium = `<div><i class="fa fa-medium" style="color: white;"></i> Medium: <a href="https://medium.com/@aayush_patel" target="_blank" style="color: white; font-weight: bold;">Aayush's Articles</a></div>`;
-const leetcode = `<div><i class="fa fa-code" style="color: white;"></i> LeetCode: <a href="https://www.leetcode.com/aayush1110" target="_blank" style="color: white; font-weight: bold;">aayush1110</a></div>`;
-const hackerrank = `<div><i class="fa fa-cogs" style="color: white;"></i> HackerRank: <a href="https://www.hackerrank.com/aayushpatel1110" target="_blank" style="color: white; font-weight: bold;">aayushpatel1110</a></div>`;
+  const instagram = `<div><i class="fa fa-instagram" style="color: white;"></i> Instagram: <a href="https://instagram.com/aayushh.xd" target="_blank" style="color: #ccc; font-weight: bold;">aayushh.xd</a></div>`;
+const portfolio = `<div><i class="fa fa-globe" style="color: white;"></i> Portfolio: <a href="https://aayushpatel.000.pe/" target="_blank" style="color: #ccc; font-weight: bold;">aayushpatel.000.pe</a></div>`;
+const twitter = `<div><i class="fa fa-twitter" style="color: white;"></i> Twitter: <a href="https://twitter.com/aayush_1110" target="_blank" style="color: #ccc; font-weight: bold;">Aayush Patel</a></div>`;
+const medium = `<div><i class="fa fa-medium" style="color: white;"></i> Medium: <a href="https://medium.com/@aayush_patel" target="_blank" style="color: #ccc; font-weight: bold;">Aayush's Articles</a></div>`;
+const leetcode = `<div><i class="fa fa-code" style="color: white;"></i> LeetCode: <a href="https://www.leetcode.com/aayush1110" target="_blank" style="color: #ccc; font-weight: bold;">aayush1110</a></div>`;
+const hackerrank = `<div><i class="fa fa-cogs" style="color: white;"></i> HackerRank: <a href="https://www.hackerrank.com/aayushpatel1110" target="_blank" style="color: #ccc; font-weight: bold;">aayushpatel1110</a></div>`;
 
 // Add Instagram, Portfolio, and Twitter to the about array
   about.push(instagram);
